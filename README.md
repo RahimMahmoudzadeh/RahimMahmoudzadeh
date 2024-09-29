@@ -5,7 +5,7 @@ I'm Rahim Mahmoudzadeh, an Android Developer who's all about building cool stuff
 ## Who am I? 🤔
 
 - I'm that person who's always up for trying out the latest tech, whether it's Kotlin, Android, or Jetpack Compose.
-- When I'm not coding, you can find me binging on Bollywood Movies or reading great Books. 🌳
+- When I'm not coding, you can find me play euro truck simulator 2 or reading great Books. 🌳
 
 ## What's Cookin'? 🍳
 
