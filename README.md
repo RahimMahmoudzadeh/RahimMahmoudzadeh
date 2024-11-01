@@ -2,6 +2,11 @@
 
 I'm Rahim Mahmoudzadeh, an Android Developer who's all about building cool stuff for your pocket. Welcome to my GitHub! 🚀
 
+On this GitHub profile, you'll find a collection of my projects, experiments, and collaborations. Take a look around, and let's build something amazing together! 🚀
+Feel free to reach out if you'd like to chat about a project, or just want to say hi 👋.
+
+Let's code, and change the world! 💻💡
+
 ## Who am I? 🤔
 
 - I'm that person who's always up for trying out the latest tech, whether it's Kotlin, Android, or Jetpack Compose.
@@ -10,7 +15,10 @@ I'm Rahim Mahmoudzadeh, an Android Developer who's all about building cool stuff
 ## What's Cookin'? 🍳
 
 ### [Yadino](https://github.com/RahimMahmoudzadeh/Yadino)
-To Do List Application
+To Do List Android Application
+
+### [Harmony](https://github.com/RahimMahmoudzadeh/Harmony)
+Music play Android Application
 
 ## Skills in My Toolbox 🧰
 
