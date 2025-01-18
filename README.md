@@ -27,8 +27,9 @@ Fitness Android Application
 - Java
 - XML
 - Jetpack Compose
-- MVVM/MVI Architecture
+- MVVM/MVI Architecture Pattern
 - Clean Code
+- Clean Architecture
 - Git
 - And focusing on achieving other things
 
