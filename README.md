@@ -17,9 +17,6 @@ Let's code, and change the world! 💻💡
 ### [Yadino](https://github.com/RahimMahmoudzadeh/Yadino)
 To Do List Android Application
 
-### [Coach](https://github.com/RahimMahmoudzadeh/Coach)
-Fitness Android Application
-
 ## Skills in My Toolbox 🧰
 
 - Android Development
