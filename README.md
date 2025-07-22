@@ -30,9 +30,16 @@ To Do List Android Application
 - Git
 - And focusing on achieving other things
 
-## Let's Connect! 🌟
+### 🤝 Connect with Me
+<!--[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/nicolaou_nicos)-->
+[![X](https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white)](https://x.com/RahimMahmoudzad)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rahim-mahmoudzadeh-22b64b199)
 
-- Let's link up on [LinkedIn](https://www.linkedin.com/in/rahim-mahmoudzadeh-22b64b199/)
-- Drop me a message on [Telegram](https://t.me/Rahimmahmoudzadeh)
-- Shoot me an email at [rahim.mahmoudzadehh@gmail.com](rahim.mahmoudzadehh@gmail.com)  
+### 🤝 Google Developer Profile
+[![Static Badge](https://img.shields.io/badge/Developer_Profile-blue?style=for-the-badge&label=Google)](https://developers.google.com/profile/u/rahim_mahmoudzadeh)
+
+### 👨‍💻 Programming Languages and Tools
+![My Skills](https://skillicons.dev/icons?i=kotlin,java,androidstudio,postman,github,bitbucket,git,sublime)
+
+
 Feel free to roam around my repositories and drop a message if you want to chat or collab! 🤙
