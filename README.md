@@ -39,7 +39,7 @@ To Do List Android Application
 [![Static Badge](https://img.shields.io/badge/Developer_Profile-blue?style=for-the-badge&label=Google)](https://developers.google.com/profile/u/rahim_mahmoudzadeh)
 
 ### 👨‍💻 Programming Languages and Tools
-![My Skills](https://skillicons.dev/icons?i=kotlin,java,androidstudio,postman,github,bitbucket,git,sublime)
+![My Skills](https://skillicons.dev/icons?i=kotlin,java,androidstudio,postman,github,git,swagger)
 
 
 Feel free to roam around my repositories and drop a message if you want to chat or collab! 🤙
