@@ -18,7 +18,7 @@ Let's code, and change the world! 💻💡
 To Do List Android Application
 
 ### [Synapse](https://github.com/RahimMahmoudzadeh/Synapse)
-Chap CMP Application
+Chat CMP Application
 
 ## Skills in My Toolbox 🧰
 
