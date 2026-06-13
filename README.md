@@ -17,6 +17,9 @@ Let's code, and change the world! 💻💡
 ### [Yadino](https://github.com/RahimMahmoudzadeh/Yadino)
 To Do List Android Application
 
+### [Synapse](https://github.com/RahimMahmoudzadeh/Synapse)
+Chap CMP Application
+
 ## Skills in My Toolbox 🧰
 
 - Android Development
